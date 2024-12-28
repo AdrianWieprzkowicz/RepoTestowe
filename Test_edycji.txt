@@ -1,1 +1,5 @@
-Edytował Adrian Wieprzkowicz v2
+<<<<<<< HEAD
+Edytował Adrian Wieprzkowicz v1
+=======
+Edytował Adrian Wieprzkowicz v1
+>>>>>>> 138cb5dd4e992c415dc0e219f05048aeccd92e2f
